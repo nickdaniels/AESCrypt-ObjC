@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'AESCrypt'
+  s.name     = 'AESCrypt-ObjC'
   s.version  = '1.0'
   s.summary  = 'AESCrypt is a simple to use, opinionated AES encryption / decryption Objective-C class that just works.'
   s.homepage = 'https://github.com/heyuan110/AESCrypt-ObjC'
